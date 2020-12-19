@@ -25,4 +25,5 @@ I appreciate your hard work whether learning with the book or by doing the adven
 
 ---
 **NOTE:** Maybe it is a good idea to start with `task2` before implementing `task1`.
+
 ---
