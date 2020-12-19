@@ -1,6 +1,6 @@
 # Strings und IntelliJ
 
-* Sieh dir Kapitel XX an. 
+* Sieh dir Kapitel 6 an. 
 * Probiere ein paar String Manipulationen aus. 
 * Diese Übung eignet sich sehr gut um die IDE IntelliJ kennen zu lernen. 
 * Der Marktanteil von IntelliJ ist ca. 50%, du solltest zumindest einen groben Überblick der Entwicklungsumgebung haben.
