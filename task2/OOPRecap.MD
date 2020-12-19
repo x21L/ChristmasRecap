@@ -1,6 +1,6 @@
 # Das ist eine Wiederholung der objektorientierten Konzepte.
 
-> Bitte versuche als Übung alles in markdown zu beantworten.
+Bitte versuche als Übung alles in markdown zu beantworten. Hier ist ein [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 1. Was ist das Ziel der Objektorientierung?
  * 
@@ -26,5 +26,5 @@
  * 
 12. Für was dient der `instanceof` Operator. Gib ein sinnvolles Beispiel.
  * 
- 
+ ---
  > Eclipse bietet auch Markdown unterstützung inklusive Preview. Für die Verwendung muss kein Plugin installiert werden.
