@@ -1,27 +1,27 @@
 # Das ist eine Wiederholung der objektorientierten Konzepte.
 
-Bitte versuche als Übung alles in markdown zu beantworten.
+Bitte versuche als Ãœbung alles in markdown zu beantworten.
 
 1. Was ist das Ziel der Objektorientierung?
-  
+  * 
 2. Gibt es OOP nur in Java?
-  
+  * 
 3. Was ist der Unterschied zwischen Objekt und Klasse?
-  
-4. Wie erzeuge ich eine neue Instanz? (Welches Schlüsselwort gibt es dafür)
-  
-5. Was bedeutet das Schlüsselwort `static` und wo kann es überall verwendet werden?
-  
+  * 
+4. Wie erzeuge ich eine neue Instanz? (Welches SchlÃ¼sselwort gibt es dafÃ¼r)
+  * 
+5. Was bedeutet das SchlÃ¼sselwort `static` und wo kann es Ã¼berall verwendet werden?
+  * 
 6. Wozu dient die Vererbung?
-  
+  * 
 7. Kann in Java von mehreren Klassen geerbt werden? Wenn ja wie?
-  
+  * 
 8. Welche Vererbungshierarchien kennst du? (Ein Bild reicht aus)
-  
-9. Was beudeted Casten und wie ist die Syntax in Java dafür?
-  
+  * 
+9. Was beudeted Casten und wie ist die Syntax in Java dafÃ¼r?
+  * 
 10. Was ist der Unterschied zwischen explizieten und implizieten Typecasting?
-  
-11. Erkläre die folgenden Schlüsselwörter: `super`, `this`
-  
-12. Für was dient der `instanceof` Operator. Gib ein sinnvolles Beispiel.
+  * 
+11. ErklÃ¤re die folgenden SchlÃ¼sselwÃ¶rter: `super`, `this`
+  * 
+12. FÃ¼r was dient der `instanceof` Operator. Gib ein sinnvolles Beispiel.
