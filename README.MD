@@ -22,3 +22,7 @@ We can also make up a date in January if needed. The meetings are more or less o
 **Important:** The goal is to fully understand inheritance (Vererbung) after Christmas break.
 
 I appreciate your hard work whether learning with the book or by doing the advent of code challenges. You can be really proud of yourself. Hard work will pay off.
+
+---
+**NOTE:** Maybe it is a good idea to start with `task2` before implementing `task1`.
+---
