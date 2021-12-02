@@ -1,4 +1,4 @@
-# Inheritance🎅 :christmas_tree:
+# Inheritance 🎅:christmas_tree:
 
 Every task is in one folder named `task1` and `task2`. In every folder, there is a Markdown file with your instructions.
 
